@@ -1,3 +1,16 @@
+#Median Filter Image Processing
+This project demonstrates adding synthetic noise to an image and applying median filters to reduce the noise. It also overlays a name on the image for identification purposes.
+
+##Features
+Adds random grain/noise to the input image
+
+Applies 3x3 and 5x5 median filters to attempt noise removal
+
+Overlays the last name on the image
+
+Saves all processed images for comparison
+
+
 | Stage                           | Example *(Insert your images here)*       |
 | ------------------------------- | ----------------------------------------- |
 | 📷 **Original (Resized)**       | *(Insert Original Image)*                 |
