@@ -11,9 +11,9 @@ This project demonstrates adding synthetic grainy noise to an image and applying
 
 ✅ Saves and displays all resulting images for evaluation
 
+## Images
 
-
-| Stage                           | Example *(Insert your images here)*       |
+| Stage                           | Images       |
 | ------------------------------- | ----------------------------------------- |
 | 📷 **Original (Resized)**       | *<img src="https://github.com/Hghn02/Grainy-Image-Debrlurring/blob/main/IMG_2279.jpg" alt="Screenshot Placeholder" width="450" height="300">*                 |
 | 🌩️ **Grainy Image (Noisy)**    | *<img src="https://github.com/Hghn02/Grainy-Image-Debrlurring/blob/main/Grainy_Image.jpg" alt="Screenshot Placeholder" width="450" height="300">*         |
