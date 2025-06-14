@@ -13,8 +13,8 @@ This project demonstrates adding synthetic grainy noise to an image and applying
 
 | Stage                           | Images       |
 | ------------------------------- | ----------------------------------------- |
-| 📷 **Original (Resized)**       | *<img src="https://github.com/Hghn02/Grainy-Image-Debrlurring/blob/main/IMG_2279.jpg" alt="Screenshot Placeholder" width="450" height="300">*                 |
-| 🌩️ **Grainy Image (Noisy)**    | *<img src="https://github.com/Hghn02/Grainy-Image-Debrlurring/blob/main/Grainy_Image.jpg" alt="Screenshot Placeholder" width="450" height="300">*         |
-| 🔲 **3x3 Median Filter Output** | *<img src="https://github.com/Hghn02/Grainy-Image-Debrlurring/blob/main/Unblurred_Image_3x3.jpg" alt="Screenshot Placeholder" width="450" height="300">* |
-| 🔳 **5x5 Median Filter Output** | *<img src="https://github.com/Hghn02/Grainy-Image-Debrlurring/blob/main/Unblurred_Image_5x5.jpg" alt="Screenshot Placeholder" width="450" height="300">* |
+| 📷 **Original (Resized)**       | *<img src="https://github.com/Hghn02/Grainy-Image-Debrlurring/blob/main/IMG_2279.jpg" alt="Screenshot Placeholder" width="500" height="350">*                 |
+| 🌩️ **Grainy Image (Noisy)**    | *<img src="https://github.com/Hghn02/Grainy-Image-Debrlurring/blob/main/Grainy_Image.jpg" alt="Screenshot Placeholder" width="500" height="350">*         |
+| 🔲 **3x3 Median Filter Output** | *<img src="https://github.com/Hghn02/Grainy-Image-Debrlurring/blob/main/Unblurred_Image_3x3.jpg" alt="Screenshot Placeholder" width="500" height="350">* |
+| 🔳 **5x5 Median Filter Output** | *<img src="https://github.com/Hghn02/Grainy-Image-Debrlurring/blob/main/Unblurred_Image_5x5.jpg" alt="Screenshot Placeholder" width="500" height="350">* |
 
