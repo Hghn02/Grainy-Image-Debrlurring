@@ -15,7 +15,7 @@ This project demonstrates adding synthetic grainy noise to an image and applying
 
 | Stage                           | Example *(Insert your images here)*       |
 | ------------------------------- | ----------------------------------------- |
-| 📷 **Original (Resized)**       | *<img src="https://github.com/Hghn02/Grainy-Image-Debrlurring/blob/main/IMG_2279.jpg" alt="Screenshot Placeholder" width="5o0" height="350">*                 |
+| 📷 **Original (Resized)**       | *<img src="https://github.com/Hghn02/Grainy-Image-Debrlurring/blob/main/IMG_2279.jpg" alt="Screenshot Placeholder" width="500" height="350">*                 |
 | 🌩️ **Grainy Image (Noisy)**    | *(Insert Grainy\_Image.jpg here)*         |
 | 🔲 **3x3 Median Filter Output** | *(Insert Unblurred\_Image\_3x3.jpg here)* |
 | 🔳 **5x5 Median Filter Output** | *(Insert Unblurred\_Image\_5x5.jpg here)* |
