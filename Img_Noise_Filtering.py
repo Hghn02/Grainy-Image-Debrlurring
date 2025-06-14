@@ -69,13 +69,13 @@ def main():
     clear_img_5by5 = median_filter5by5(grainy_img)
 
     cv2.imshow("Text Image", written_on_img)
-    cv2.imwrite("Question#1_2.jpg", written_on_img)
+    cv2.imwrite("Text_Image.jpg", written_on_img)
     cv2.imshow("Grainy Image", grainy_img)
-    cv2.imwrite("Question#1_3.jpg", grainy_img)
-    cv2.imshow("Unblurred Image 3by3", clear_img_3by3)
-    cv2.imwrite("Question#1_4_3by3.jpg",clear_img_3by3) # 3 by 3 is blurry but better than 5 x 5
-    cv2.imshow("Unblurred Image 5by5",clear_img_5by5)
-    cv2.imwrite("Question#1_4_5x5.jpg",clear_img_5by5) # 5 x 5 Kernel is worse than 3 by 3 m
+    cv2.imwrite("Grainy_Image.jpg", grainy_img)
+    cv2.imshow("Unblurred Image 3x3", clear_img_3by3)
+    cv2.imwrite("Unblurred_Image_3x3.jpg",clear_img_3by3) # 3 by 3 is blurry but better than 5 x 5
+    cv2.imshow("Unblurred Image 5x5",clear_img_5by5)
+    cv2.imwrite("Unblurred_Image_5x5.jpg",clear_img_5by5) # 5 x 5 Kernel is worse than 3 by 3 m
     cv2.waitKey(0)
 
 if __name__ == '__main__':
