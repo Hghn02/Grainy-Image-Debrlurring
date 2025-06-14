@@ -3,13 +3,13 @@ This project demonstrates adding synthetic noise to an image and applying median
 
 ## Features
 
-  - Adds random grain/noise to the input image
+✅ Adds random noise (grain) to the image
 
-  - Applies 3x3 and 5x5 median filters to attempt noise removal
+✅ Applies 3x3 and 5x5 median filtering for noise reduction
 
-  - Overlays the last name on the image
+✅ Overlays text on the original image
 
-  - Saves all processed images for comparison
+✅ Saves and displays all resulting images for evaluation
 
 
 | Stage                           | Example *(Insert your images here)*       |
