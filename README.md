@@ -1,13 +1,14 @@
 # Median Filter Image Processing
-This project demonstrates adding synthetic grainy noise to an image and applying median filters to reduce the noise.
+This project demonstrates adding synthetic grainy noise to an image and applying median filters to reduce the noise to simulate noise removal
+and image smoothing. It makes use of different size kernels for noise reduction
 
 ## Features
 
-✅ Adds random noise (grain) to the image
+Adds random noise (grain) to the image
 
-✅ Applies 3x3 and 5x5 median filtering for noise reduction
+Applies 3x3 and 5x5 median filtering for noise reduction
 
-✅ Saves and displays all resulting images for evaluation
+Saves and displays all resulting images for evaluation
 
 ## Images
 
